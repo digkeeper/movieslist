@@ -17,8 +17,7 @@ DOMAIN,misty.cx
 DOMAIN,free.28.al
 # > youno
 DOMAIN,emby.younoyes.com
-# > cine
-DOMAIN,emby1.123456789.lol
+
 # > 入机
 DOMAIN,rjcf.rjf37.com
 DOMAIN,rjcf.xytx.org:443
@@ -35,7 +34,7 @@ DOMAIN,us.nanflix.net
 DOMAIN,lite.cn2gias.uk
 DOMAIN,tv.iill.top
 # > sherk
-DOMAIN,public.shrekmedia.org
+#DOMAIN,public.shrekmedia.org
 # > zn存档
 DOMAIN,emby.zn.al
 DOMAIN,emby.yixia.io
