@@ -18,9 +18,6 @@ DOMAIN,free.28.al
 # > youno
 DOMAIN,emby.younoyes.com
 
-# > 入机
-DOMAIN,rjcf.rjf37.com
-DOMAIN,rjcf.xytx.org:443
 # > 猫
 DOMAIN,gy.meowfly.de
 # > 蘑菇em
@@ -42,7 +39,4 @@ DOMAIN,daigua.chilledmelon.com
 DOMAIN,rn.chilledmelon.com
 DOMAIN,onatoshi.114514.quest
 DOMAIN,emby.chilledmelon.com
-
-
-
 DOMAIN,emby.chilledmelon.com
