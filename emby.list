@@ -31,7 +31,7 @@ DOMAIN,us.nanflix.net
 DOMAIN,lite.cn2gias.uk
 DOMAIN,tv.iill.top
 # > sherk
-#DOMAIN,public.shrekmedia.org
+DOMAIN,public.shrekmedia.org
 # > zn存档
 DOMAIN,emby.zn.al
 DOMAIN,emby.yixia.io
@@ -43,5 +43,6 @@ DOMAIN,emby.chilledmelon.com
 DOMAIN,link00.okemby.org
 DOMAIN,emby.istyboe.top
 DOMAIN,hellohk.me
+
 
 DOMAIN,emby.rochub.xyz
