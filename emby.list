@@ -1,32 +1,21 @@
-
 # > youno
 DOMAIN,emby.younoyes.com
-
 # > 猫
 DOMAIN,gy.meowfly.de
-
-# >zn
-DOMAIN,emby.zn.al
-
 # > 叶子
 DOMAIN,wp.lyezi.cc
-
+# > 守候
 DOMAIN,lite.cn2gias.uk
-
-DOMAIN,tv.iill.top
 # > sherk
 DOMAIN,public.shrekmedia.org
-# > zn存档
-DOMAIN,emby.zn.al
-DOMAIN,emby.yixia.io
-DOMAIN,daigua.chilledmelon.com
-DOMAIN,rn.chilledmelon.com
-DOMAIN,onatoshi.114514.quest
+# > 西瓜
 DOMAIN,v.chilledmelon.com
+# >douban
+DOMAIN,onatoshi.114514.quest
+# >ok
 DOMAIN,link00.okemby.org
-DOMAIN,emby.istyboe.top
-#DOMAIN,hellohk.me
-DOMAIN,emby.rochub.xyz
-DOMAIN,emby.vincent253.us.ci
+# >猫窝
 DOMAIN,emby.stieff.uk
-
+DOMAIN,emby1.stieffs.uk
+# >猫窝
+DOMAIN,faemby.vip
