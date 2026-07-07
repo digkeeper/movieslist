@@ -1,6 +1,13 @@
-[mitm]
-hostname = %APPEND% www.tailgdd.com
+// 台铃智能 - 屏蔽升级弹窗
+// API: https://www.tailgdd.com/v1/api/app/version/getVersion
+const fakeBody = {
+  code: 0,
+  msg: "success",
+  data: {
+    version: "9.9.9",
+    forceUpdate: false,
+    downloadUrl: ""
+  }
+};
 
-[rewrite_local]
-# 台铃智能 - 更新检测（修改响应，消除弹窗）
-^https?:\/\/www\.tailgdd\.com\/v1\/api\/app\/version\/getVersion(\?.*)?$ url reject
+$done({ body: JSON.stringify(fakeBody) });
